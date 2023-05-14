@@ -39,8 +39,7 @@ button {
   font-size: 20px;
 }
 
-button:hover,
-button:focus {
+button:hover {
   background-color: #1e67dd;
   color: #fff;
 }
